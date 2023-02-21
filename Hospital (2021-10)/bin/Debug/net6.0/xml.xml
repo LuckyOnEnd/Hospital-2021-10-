@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <doctors />
+    <nurse />
+    <name>Viacheslav</name>
+    <sur>T</sur>
+    <pes>0229099979</pes>
+    <spec>lekarz</spec>
+    <log>LuckyOnEnd</log>
+    <pass>mcdestern76807</pass>
+    <type>kardiolog</type>
+    <pwz>123</pwz>
+    <date>
+      <int>1</int>
+      <int>3</int>
+      <int>5</int>
+      <int>7</int>
+      <int>2</int>
+      <int>9</int>
+      <int>4</int>
+      <int>6</int>
+      <int>8</int>
+      <int>11</int>
+    </date>
+  </User>
+  <User>
+    <doctors />
+    <nurse />
+    <name>Viachelsav</name>
+    <sur>asdf</sur>
+    <pes>01i5</pes>
+    <spec>lekarz</spec>
+    <log>asd</log>
+    <pass>asd</pass>
+    <type>neurolog</type>
+    <pwz>fdg</pwz>
+    <date>
+      <int>1</int>
+      <int>3</int>
+      <int>5</int>
+      <int>7</int>
+      <int>9</int>
+      <int>11</int>
+      <int>13</int>
+      <int>15</int>
+      <int>17</int>
+      <int>19</int>
+    </date>
+  </User>
+</ArrayOfUser>
